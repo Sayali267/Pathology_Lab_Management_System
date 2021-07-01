@@ -1,0 +1,23 @@
+body{
+	margin-top:70px;
+	background-color:#ceebe9;
+	
+}
+
+main{
+	margin-top:50px;
+}
+.fa-1x {
+font-size: 1.5rem;
+}
+.navbar-toggler.toggler-example {
+cursor: pointer;
+}
+
+
+
+footer{
+	
+	margin-top:2cm;
+	background-color:#2d716a
+}	

@@ -1,0 +1,773 @@
+.jumbotron{
+    width: auto;
+    height: 200px;
+    text-align: center;
+    background-color: transparent;   
+    margin-bottom: 0px;
+   background-image: url(images/download.JPG);
+    }
+.footer{
+    width: auto;
+    height: 125px;
+    text-align: center;
+    background-color: grey;
+    padding-top: 0px;
+}
+h1.serif{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    text-decoration-color: black;
+}
+.navbar{
+    margin-top: 0px;
+    background-color: red;   
+    margin-bottom: 50px;
+}
+.text{
+    color: black;
+    font-weight: bold;
+}
+.item img{
+    width: 100%;
+}
+.panel{
+    padding-bottom: 20px;
+}
+.carousel{
+    height: 250px;
+}
+.home{
+ font-style: bold;
+    color: red;
+    margin-left: 19%
+}
+h4{
+    margin-left: 25%;
+    margin-right: 15%
+}
+{
+    margin: 0;
+    padding: 0;
+    background: url();
+    background-size: cover;
+    font-family: sans-serif;
+}
+.title
+{
+text-align: center;
+padding: 50px 0 50px;
+border solid 1px;
+}
+.title h1
+{
+    margin: 0;
+    padding: 0;
+    color: blue;
+    text-transform: uppercase;
+    font-size: 25px;
+}
+ .container 
+{
+    width: 50%
+    height: 400px;
+    background: #fff;
+    margin: 0 auto;
+    border: 2px solid #fff;
+    box-shadow: 0 15px 40px rgba(0,0,0,.5);
+}
+.container .left
+{
+    float: left;
+    width: 50%;
+    height:400px;
+    box-sizzing: border-box;
+}
+.container .right
+{
+    float: right;
+    width: 50%
+    heighst:400px;
+    box-sizzing: border-box;
+
+}
+.formbox
+{
+    width: 58%;
+    padding-left: 300px;
+    box-sizing: border-box;
+    height: 400px
+}
+.formbox p{
+    margin: 10;
+    padding: 0%
+    font-weight:bolder;
+    color: black;
+}
+.formbox input{
+    margin-bottom: 5px
+}
+.formbox input[type="text"],
+.formbox input[type="password"]
+{
+    border: none;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    outline:none;
+    height: 40px
+}
+.formbox input[type="text"]:focus,
+.formbox input[type="password"]:focus
+{
+    border-bottom: 2px solid black;
+}
+.formbox
+{
+    border: none;
+    outline: none;
+    height: 20px
+    color: red;
+    background-image: url(images/login.JPG);
+    cursor: pointer;
+
+}
+.formbox input[type="submit"]:hover
+{
+    background: red;
+
+}
+.formbox
+{
+    margin-right: 40%;
+    margin-left: 20%;
+color: blue;
+font-size: 30px; 
+}
+.forget-password{
+    text-decoration: inherit
+    font-size: 13px;
+}
+.signin{
+    
+}
+.username{
+    font-style: normal;
+}
+.password{
+    font-style: normal;
+
+}
+.About
+{
+    font-size: bold;
+    color: red;
+    font-size: 20px;
+    margin-left: 3%;
+    box-shadow: 0 15px 40px rgba(0,0,0,.5);
+    background: white;
+
+}
+.Info
+{
+    font-size: bold;
+    color: blue;
+    font-size: 20px;
+    margin-left: 3%;
+    box-shadow: 0 15px 40px rgba(0,0,0,.5);
+    background: white;
+}
+.guide
+{
+    font-style: bold;
+    color: black;
+    margin-left: 11%
+}
+.guide1
+{
+font-style: bold;
+    color: red;
+    margin-left: 11%
+}
+.guide2
+{
+font-style: bold;
+    color: green;
+    margin-left: 11%
+
+
+}
+.email
+{
+    font-size: bold;
+    font-size: 20px;
+    margin-left: 3%;
+
+}
+.donor{
+ margin-top:16px;
+ margin-bottom:16px;
+ padding-left: 16%;
+ padding-right: 16%;
+     }
+     .footer2{
+    width: auto;
+    height: 80px;
+    text-align: center;
+    background-color: #ff2424;
+    padding-top: 0px;
+}
+
+ .button11 {
+  padding: 30px 45px;
+  font-size: 200px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: cornflowerblue;
+  border: none;
+  border-radius: 24px;
+  box-shadow: 0 9px #999;
+        margin-left: 45px;
+}
+
+.button11:hover {background-color: crimson}
+
+.button11:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+ .button22 {
+  padding: 30px 45px;
+  font-size: 200px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: cornflowerblue;
+  border: none;
+  border-radius: 24px;
+  box-shadow: 0 9px #999;
+        margin-left: 135px;
+}
+
+.button22:hover {background-color: crimson}
+
+.button22:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+ .button33 {
+  padding: 30px 45px;
+  font-size: 200px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: cornflowerblue;
+  border: none;
+  border-radius: 24px;
+  box-shadow: 0 9px  #999;
+        margin-left: 90px;
+}
+
+.button33:hover {background-color: crimson}
+
+.button33:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .button3 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+        margin-left: 200px;
+}
+
+.button3:hover {background-color: crimson}
+
+.button3:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+  .button1 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+      width: auto;
+      margin-left: 200px;
+
+      
+}
+
+.button1:hover {background-color: crimson}
+
+.button1:active {
+  background-color: red;
+   
+  box-shadow: 0 5px #666;
+  transform: translateY(4px)
+}  .button2 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+    margin-left: 200px;
+}
+
+.button2:hover {background-color: crimson}
+
+.button2:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+
+.button4 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+      width: auto;
+      margin-left: 200px;
+
+      
+}
+
+.button4:hover {background-color: crimson}
+
+.button4:active {
+  background-color: red;
+   
+  box-shadow: 0 5px #666;
+  transform: translateY(4px)
+}
+
+.button5 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+      width: auto;
+      margin-left: 200px;
+
+      
+}
+
+.button5:hover {background-color: crimson}
+
+.button5:active {
+  background-color: red;
+   
+  box-shadow: 0 5px #666;
+  transform: translateY(4px)
+}
+
+
+.button6 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+      width: auto;
+      margin-left: 200px;
+
+      
+}
+
+.button6:hover {background-color: crimson}
+
+.button6:active {
+  background-color: red;
+   
+  box-shadow: 0 5px #666;
+  transform: translateY(4px)
+}
+
+.button7 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+      width: auto;
+      margin-left: 200px;
+
+      
+}
+
+.button7:hover {background-color: crimson}
+
+.button7:active {
+  background-color: red;
+   
+  box-shadow: 0 5px #666;
+  transform: translateY(4px)
+}
+
+.button8 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+      width: auto;
+      margin-left: 200px;
+
+      
+}
+
+.button8:hover {background-color: crimson}
+
+.button8:active {
+  background-color: red;
+   
+  box-shadow: 0 5px #666;
+  transform: translateY(4px)
+}
+
+.button9 {
+  padding: 30px 45px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: grey;
+  border: none;
+  border-radius: 20px;
+  box-shadow: 0 5px cornflowerblue;
+      width: auto;
+      margin-left: 200px;
+
+      
+}
+
+.button9:hover {background-color: crimson}
+
+.button9:active {
+  background-color: red;
+   
+  box-shadow: 0 5px #666;
+  transform: translateY(4px)
+}
+
+
+
+
+
+
+
+
+
+.buttonheart {
+  padding: 35px 55px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 9px #999;
+      width: auto;
+      margin-left: 170px;
+
+      
+}
+.buttonheart:hover {background-color: lightgray}
+.buttonheart:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.buttonkidney {
+  padding: 35px 55px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 9px #999;
+      width: auto;
+      margin-left: 50px;
+
+      
+}
+.buttonkidney:hover {background-color: lightgray}
+.buttonkidney:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.buttonliver {
+  padding: 35px 55px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 9px #999;
+      width: auto;
+      margin-left: 50px;
+
+      
+}
+.buttonliver:hover {background-color: lightgray}
+.buttonliver:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.buttonseamen {
+  padding: 35px 55px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 9px #999;
+      width: auto;
+      margin-left: 50px;
+    margin-top: 50px;
+
+      
+}
+.buttonseamen:hover {background-color: lightgray}
+.buttonseamen:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.buttondisease {
+  padding: 35px 55px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 9px #999;
+      width: auto;
+      margin-left: 50px;
+    margin-top: 50px;
+
+      
+}
+.buttondisease:hover {background-color: lightgray}
+.buttondisease:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.buttonblood {
+  padding: 35px 55px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 9px #999;
+      width: auto;
+      margin-left: 50px;
+    margin-top: 50px;
+
+      
+}
+.buttonblood:hover {background-color: lightgray}
+.buttonblood:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+    
+}
+.buttonothers {
+  padding: 35px 55px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: lightcoral;
+  border: none;
+  border-radius: 25px;
+  box-shadow: 0 9px #999;
+      width: auto;
+      margin-left: 50px;
+    margin-top: 50px;
+
+      
+}
+.buttonothers:hover {background-color: lightgray}
+.buttonothers:active {
+  background-color: red;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+    
+}
+.name{
+    padding: 55px 55px;
+  font-size: 20px;
+    width: auto;
+      margin-left: 50px;
+    margin-top: 50px;
+    text-align: center;
+  cursor: pointer;
+      border: none;
+    outline: none;
+    height: 20px
+    
+}
+
+.header{
+      margin-left: 50px;
+    margin-top: 5px;
+    width: 900px;
+    height: 100px; 
+    border: solid gray 1px;
+    text-align: center;
+
+}
+.test
+{
+    margin-left: 50px;
+    margin-top: 5px;
+    font-size: 20px;
+    padding: 55px 55px;
+  font-size: 20px;
+
+    text-align: center;
+
+      border: none;
+    outline: none;
+    height: 5px
+}
+.value
+{
+     
+margin-left: 50px;
+    margin-top: 5px;
+    font-size: 20px;
+    padding: 55px 55px;
+  font-size: 20px;
+
+    text-align: center;
+
+      border: none;
+    outline: none;
+    height: 5px
+    
+    
+}
+.normal
+{
+    margin-left: 50px;
+    margin-top: 5px;
+    font-size: 20px;
+    padding: 55px 55px;
+  font-size: 20px;
+    
+    text-align: center;
+  
+      border: none;
+    outline: none;
+    height: 5px
+}
+.icon {
+  width: 100px;
+  background-color: #555;
+}
+
+.organ {
+    
+}
+.avatar {
+  vertical-align: middle;
+  width: 250px;
+  height: 250px;
+  border-radius: 50%;
+}
